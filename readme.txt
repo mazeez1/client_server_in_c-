@@ -1,0 +1,1 @@
+this is an old project that opens a channel and waits for a "handshake" in typical client-server fashion before sending over the data file.  use the make file in a dev enviourment terminal with both open.  
